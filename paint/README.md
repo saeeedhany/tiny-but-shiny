@@ -1,7 +1,7 @@
 
 ---
 
-![preview](../images/paint2.png)
+![preview](../images/paint1.png)
 
 ```md
 # Paint
