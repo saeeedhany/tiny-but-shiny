@@ -1,22 +1,9 @@
-# 🌟 Tiny but Shiny
+# Tiny but Shiny
 
-> Small projects that shine through my eyes ✨
+A small collection of projects I built while learning different programming languages, libraries, and tools.  
+Each project represents something I explored or experimented with during my learning process.
 
-This is a collection of tiny projects that I build for fun and curiosity.
-Each one might be small, but it has something special — at least to me.
+## Projects
 
-## 🔧 Project Structure
-
-Each project lives in its own folder or repository.
-Every project follows this format:
-- 📜 What is it?
-- 🤔 Why did I build it?
-- 🧠 How does it work?
-- 🔨 How to build and run it?
-
-## 📚 Projects
-
-- [🖌️ Paint](./projects/paint.md) — draw on screen with SDL and keyboard.
-
-
+- [Paint](./projects/paint.md) — built while learning C and the SDL library.
 
