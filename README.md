@@ -5,5 +5,5 @@ Each project represents something I explored or experimented with during my lear
 
 ## Projects
 
-- [Paint](./projects/paint.md) — built while learning C and the SDL library.
+- [Paint](/paint) — built while learning C and the SDL library.
 
