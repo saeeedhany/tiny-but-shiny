@@ -1,6 +1,6 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -g $(shell pkg-config --cflags sdl2)  # تضمين إعدادات SDL2
-LDLIBS = $(shell pkg-config --libs sdl2)                     # تضمين روابط SDL2
+CFLAGS = -Wall -Wextra -g $(shell pkg-config --cflags sdl2)  
+LDLIBS = $(shell pkg-config --libs sdl2)                     
 
 TARGET = paint_project
 
