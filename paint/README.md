@@ -9,7 +9,7 @@ This project was made to explore the basics of drawing with SDL — how to handl
 
 You can draw on the screen with your mouse, switch between colors using the keyboard, and clear the canvas when needed.
 
-![preview](../images/paint1.png)
+![preview](../assets/paint1.png)
 
 ## How It Works
 
